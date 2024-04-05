@@ -1,0 +1,31 @@
+body{
+    font-family: Roboto;
+}
+.logo{
+    width: 86px;
+    height: 25px;
+}
+.card-img-top {
+    width: 400px;
+    height: 200px;
+    } 
+
+body h4{
+    font-size: 20pt;
+    color: #212529;
+    text-align: left;
+}
+body h5{
+    font-size: 16pt;
+    color: #707070;
+    text-align: left;
+}
+body h6{
+    font-size: 13pt;
+    color: #707070;
+    text-align: left;
+}
+
+body #inputName{
+    color: blue;
+}
